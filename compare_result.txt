@@ -1,0 +1,281 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading 50 samples from ATCO2 test set...
+Loaded. Total audio: 243.3s
+
+=== v2 (current) (/Users/alexhan/whisper-atc-mlx) ===
+  10/50
+  20/50
+  30/50
+  40/50
+  50/50
+  WER: 15.35%
+  avg latency: 0.40s
+  avg RTF: 0.094
+
+=== v3 (jlvdoorn) (/Users/alexhan/whisper-atc-v3-mlx) ===
+  10/50
+  20/50
+  30/50
+  40/50
+  50/50
+  WER: 36.93%
+  avg latency: 0.54s
+  avg RTF: 0.125
+
+================================================================================
+idx   REF / v2 / v3
+--------------------------------------------------------------------------------
+[001] = v2=13%  v3=13%
+      REF: oscar kilo foxtrot alfa oscar taxi to holding point runway two seven via alfa charlie
+      v2 : Oscar Kilo Foxtrot Alpha Oscar taxi to holding point runway two seven via alpha charlie
+      v3 : Oscar Kilo Foxtrot Alpha Oscar taxi to holding point runway two seven via alpha charlie
+
+[002] ✗ v2=6%  v3=17%
+      REF: ok quality four zero nine one ruzyne tower information lima qnh one zero one four time check three seven cleared to liege baltu four alfa departure initial climb five thousand feet and squawk one thousand
+      v2 : okay Quality Four Zero Nine One Ruzyne Tower information lima QNH one zero one four time check three seven cleared to Liege Baltu four alpha departure initial climb five thousand feet and squawk one thousand
+      v3 : okay Quality Four Nine One Ruzyne Tower information lima QNH one four time check three seven cleared to Liege Baltu Four Alpha departure climb five thousand feet and squawk one thousand
+
+[003] = v2=8%  v3=8%
+      REF: oscar kilo echo lima alfa confirm proceeding to tango bravo four zero two
+      v2 : Oscar Kilo Echo Lima Alpha confirm proceeding to tango bravo four zero two
+      v3 : Oscar Kilo Echo Lima Alpha confirm proceeding to tango bravo four zero two
+
+[004] = v2=0%  v3=0%
+      REF: csa one delta zulu descend flight level one hundred no speed restrictions
+      v2 : CSA One Delta Zulu descend flight level one hundred no speed restrictions
+      v3 : CSA One Delta Zulu descend flight level one hundred no speed restrictions
+
+[005] ✗ v2=36%  v3=64%
+      REF: descending flight level one hundred free speed csa one delta zulu
+      v2 : nice heading follow one hundred  free speed CSA one delta zero
+      v3 : he is descending follow one hundred eight  free speed C One Delta Zero
+
+[006] ✗ v2=33%  v3=44%
+      REF: oscar kilo triple hotel please confirm one more holding
+      v2 : Oscar Kilo Triple Hotel please confirm what we are holding
+      v3 : Oscar K Triple Hotel please confirm when we are holding
+
+[007] ✗ v2=5%  v3=20%
+      REF: oscar kilo hotel hotel hotel affirm one holding and then it should be possible to follow ils runway zero six
+      v2 : Oscar Kilo Hotel Hotel Hotel Hotel affirm one holding and then it should be possible to follow ILS runway zero six
+      v3 : Oscar Oscar Kilo Hotel Hotel affirm one holding and then it should be possible to follow I S Runway Zero Six
+
+[008] = v2=33%  v3=33%
+      REF: roger thank you
+      v2 : thank you
+      v3 : ro thank you
+
+[009] ✓ v2=44%  v3=33%
+      REF: ruzyne tower hello again euro wings one tango kilo
+      v2 : Air Rosine tower hello again your rings one tango kilo
+      v3 : Rosim tower hello again you rings one tango kilo
+
+[010] ✗ v2=27%  v3=64%
+      REF: euro wings one tango kilo ruzyne tower good afternoon go ahead
+      v2 : europink Slank Tango Kilo Ruzyne Tower good afternoon go ahead
+      v3 : you are being  good afternoon go ahead
+
+[011] ✗ v2=25%  v3=44%
+      REF: just a question do you think there any chance to get runway two four for departure
+      v2 : just a question do you think there is a chance for us to get runway two four for departure
+      v3 : just a question do you think there is a chance for departure
+
+[012] ✗ v2=0%  v3=54%
+      REF: unfortunately with delay because there are five aircraft on runway zero six landing
+      v2 : unfortunately with delay because there are five aircraft on runway zero six landing
+      v3 : unfortune at leave is delay because  aircraft on runway zero six landing
+
+[013] ✓ v2=50%  v3=25%
+      REF: ok copy thank you
+      v2 : okay copied thank you
+      v3 : okay copy thank you
+
+[014] ✗ v2=12%  v3=31%
+      REF: warsaw radar bel avia eight seven zero good evening flight level three five zero inbound bigu
+      v2 : Warsaw Radar Belavia Eight Seven Zero good evening flight level three five zero inbound bigu
+      v3 : Wars radar Belavia Eight Seven Zero good evening flight level three five zero inbound big blue
+
+[015] = v2=17%  v3=17%
+      REF: ryan air nine two bravo quebec turn right heading zero nine zero
+      v2 : Ryanair Nine Two Bravo Quebec turn right heading zero nine zero
+      v3 : Ryanair Nine Two Bravo Quebec turn right heading zero nine zero
+
+[016] ✓ v2=33%  v3=22%
+      REF: nine zero degrees ryan air nine two bravo quebec
+      v2 : nine zero degrees  friend  nine two bravo  körper
+      v3 : nine zero degrees Riner Nine Two Bravo Quebec
+
+[017] ✗ v2=16%  v3=25%
+      REF: sky travel two eight two seven and there is closed echo airspace below flight level one hundred so if you wish to avoid class echo airspace next descend in two zero miles
+      v2 : Skytravel Two Eight Two Seven and there is class echo airspace below flight level one hundred so x  if you  wish to avoid class echo airspace next descent in two zero miles
+      v3 : Sky Draw Two Seven and there is cross echo air space below flight level one hundred so if you wish to avoid cross airspace next descend in two zero miles
+
+[018] ✗ v2=0%  v3=50%
+      REF: oscar kilo charlie alfa papa squawk seven thousand good bye
+      v2 : Oscar Kilo Charlie Alfa Papa squawk seven thousand good bye
+      v3 : Oscar  seven thousand good bye
+
+[019] ✓ v2=80%  v3=70%
+      REF: squawk seven thousand good bye oscar kilo charlie alfa papa
+      v2 : Quickself tower good bye  oski  troyarch  tower
+      v3 : qu  good bye Oscar G
+
+[020] = v2=0%  v3=0%
+      REF: oscar kilo echo lima alfa climb to flight level seven zero
+      v2 : Oscar Kilo Echo Lima Alfa climb to flight level seven zero
+      v3 : Oscar Kilo Echo Lima Alfa climb to flight level seven zero
+
+[021] ✗ v2=0%  v3=27%
+      REF: oscar kilo bravo alfa lima request shortcut to vlasim if possible
+      v2 : Oscar Kilo Bravo Alfa Lima request shortcut to  Vlasim if possible
+      v3 : Oscar Oscar Kilo Bravo Alfa Lima request shortcut to  V possible
+
+[022] ✗ v2=0%  v3=19%
+      REF: oscar uniform romeo turn left heading two seven zero cleared for ils approach runway two four
+      v2 : Oscar Uniform Romeo turn left heading two seven zero cleared for ILS approach runway two four
+      v3 : Oscar Uniform Romeo turn left heading two seven zero cleared for I S Approge Runway Two Four
+
+[023] ✗ v2=29%  v3=421%
+      REF: turn left to seven zero cleared for ils runway two four oscar uniform romeo
+      v2 : turn left to seven feet cleared for ILS runway two four Oscar yes and bravo
+      v3 : turn left two seven seven zero cleared for I L S R A S S T L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L B  and
+
+[024] ✓ v2=43%  v3=0%
+      REF: say again the departure we for us
+      v2 : say again the departure three four one
+      v3 : say again the departure we for us
+
+[025] = v2=0%  v3=0%
+      REF: it is baltu four alfa to climb five thousand feet
+      v2 : it is Baltu four alfa to climb  five thousand feet
+      v3 : it is Baltu Four Alfa to climb five thousand feet
+
+[026] ✗ v2=6%  v3=25%
+      REF: lufthansa nine tango papa contact praha radar one two zero decimal two seven five bye bye
+      v2 : Lufthansa Niner Tango Papa contact Praha Radar one two zero decimal two seven five bye bye
+      v3 : Lufthansa Niner Tango Papa contact Praha Radar One Two Seven Five bye bye
+
+[027] ✗ v2=20%  v3=50%
+      REF: lufthansa nine tango papa two zero two seven five bye
+      v2 : Lufthansa Nine Takeoff Papa two zero two seven bye bye
+      v3 : Lufthansa Nine Delta Two Seven Five
+
+[028] ✗ v2=21%  v3=26%
+      REF: time air six nine zero juliett contact ruzyne tower one three four decimal five six zero hezky vecer ahoj
+      v2 : Air Mare Six Nine Zero Juliett contact Ruzyne Tower one three four decimal five six zero  hezký večer ahoj
+      v3 : Nair Six Nine Zero Juliett contact Ruzyne Tower One Three Four decimal five six zero
+
+[029] ✗ v2=21%  v3=36%
+      REF: one three four five six zero time air six nine zero juliett bye diky
+      v2 : One Three Four Five Six Zero time six nine zero juliett bye thank you
+      v3 : One Three Four Five Six Zero timeair six nine zero juliet bye thank you
+
+[030] = v2=10%  v3=10%
+      REF: oscar kilo bravo alfa lima after bukap descend to three thousand feet cleared rnp approach runway two seven report established
+      v2 : Oscar Kilo Bravo Alfa Lima after book up descend to three thousand feet cleared RNP approach runway two seven report established
+      v3 : Oscar Kilo Bravo Alfa Lima after book up descend to three thousand feet cleared RNP approach runway two seven report established
+
+[031] ✗ v2=0%  v3=29%
+      REF: sierra papa foxtrot lima foxtrot contact wien radar one two five decimal one seven five good bye
+      v2 : Sierra Papa Foxtrot Lima Foxtrot contact Wien Radar one two five decimal one seven five good bye
+      v3 : Sierra Papa Foxtrot Lima Foxtxtxt contact Wien Radar one two five good bye
+
+[032] ✗ v2=0%  v3=38%
+      REF: oscar kilo tango oscar papa proceed direct lanux
+      v2 : Oscar Kilo Tango Oscar Papa proceed direct Lanux
+      v3 : Oscar que lo tengo Oscar Papa proceed direct Lanux
+
+[033] ✗ v2=14%  v3=43%
+      REF: direct lanux oscar kilo tango oscar papa
+      v2 : ah direct Lanux Oscar Kilo Tango Oscar Papa
+      v3 : direct Lanux Oscar K Papa
+
+[034] ✗ v2=17%  v3=46%
+      REF: praha radar oscar kilo uniform tango charlie dobry den passing three thousand nine hundred climbing flight level seven zero inbound vlasim ready for ifr
+      v2 : Radar Oscar Kilo Radio From Tango Charlie  dobrý den   passing three thousand nine hundred climbing flight level seven zero inbound Vlasim ready for IFR
+      v3 : Radar Oscar Kilo Uniform Tango Charlie  passing three thousand nine hundred climbing flight
+
+[035] = v2=10%  v3=10%
+      REF: oscar kilo uniform tango charlie dobry den praha radar identified
+      v2 : Oscar Kilo Uniform Tango Charlie  dobrý den  Praha Radar identified
+      v3 : Oscar Kilo Uniform Tango Charlie  dobrý den  Praha Radar Identified
+
+[036] ✗ v2=14%  v3=29%
+      REF: climb flight level seven zero and cleared to destination benesov via flight plan route
+      v2 : climb flight level seven zero and cleared to ah destination benesov via flight planned route
+      v3 : k l seven zero and cleared to destination Beneso via flight plan route
+
+[037] ✓ v2=11%  v3=0%
+      REF: ifr flight starts now time one three one four
+      v2 : affirm flight starts now time one three one four
+      v3 : IFR flight starts now time one three one four
+
+[038] ✓ v2=40%  v3=20%
+      REF: klm one three five zero
+      v2 : Kairman Three Five Zero
+      v3 : KL One Three Five Zero
+
+[039] = v2=0%  v3=0%
+      REF: sorry go ahead
+      v2 : sorry go ahead
+      v3 : sorry go ahead
+
+[040] ✗ v2=0%  v3=20%
+      REF: yeah contact radar one two zero two seven five ahoj
+      v2 : yeah contact radar one two zero two seven five ahoj
+      v3 : yeah contact radar one two seven five ahoj
+
+[041] ✗ v2=42%  v3=50%
+      REF: one two zero two seven five ahoj klm one three five zero
+      v2 : Hotel Zero Two Seven Five runway cleared ILS one three five zero
+      v3 : Hot Zero Two Seven Five Five Zero
+
+[042] ✗ v2=6%  v3=38%
+      REF: lufthansa nine tango papa contact praha radar one two zero decimal two seven five good bye
+      v2 : Lufthansa Nair Tango Papa contact Praha radar one two zero decimal two seven five good bye
+      v3 : Luf Tango Papa contact Pra Radar one two seven five good bye
+
+[043] ✗ v2=0%  v3=55%
+      REF: one two zero two seventy five bye bye nine tango papa
+      v2 : One Two Zero Two Seventy Five bye bye  Nine Tango Papa
+      v3 : one two seventy five bye
+
+[044] ✗ v2=0%  v3=27%
+      REF: oscar kilo kilo kilo whiskey descend to five thousand feet qnh one zero one six
+      v2 : Oscar Kilo Kilo Kilo Whiskey descend to five thousand feet QNH one zero one six
+      v3 : Oscar Kilo Whiskey descend to five thousand feet QNH one six
+
+[045] ✗ v2=0%  v3=12%
+      REF: oscar kilo mike delta hotel pass your message
+      v2 : Oscar Kilo Mike Delta Hotel pass your message
+      v3 : Oscar Kilo Mike Delta Hotel pass their message
+
+[046] ✓ v2=30%  v3=20%
+      REF: is it ok for you if we maintain four nautical miles left hand track all the way down to benesov
+      v2 : Easy tour kit for you if we maintain  four knots thicker miles left of track all the way down to Benesov
+      v3 : is it okay for you if we maintain  four nine miles left of track all the way down to Benes
+
+[047] = v2=0%  v3=0%
+      REF: oscar kilo charlie alfa papa if able increase speed approaching traffic
+      v2 : Oscar Kilo Charlie Alfa Papa if able increase speed  approaching traffic
+      v3 : Oscar Kilo Charlie Alfa Papa if able increase speed  approaching traffic
+
+[048] ✗ v2=32%  v3=47%
+      REF: euro wings seven alfa bravo turn right heading two one zero cleared ils approach runway two four report established
+      v2 : Europa Wing Seven Alpha Bravo turn right heading two one zero cleared ILS approach and wait you four report established
+      v3 : Eurwing Seven Alpha Bravo turn right heading two one zero cleared I S Approch Run Way Two Four Report Est
+
+[049] ✗ v2=24%  v3=59%
+      REF: ding two one zero cleared for the ils two four report established euro wings seven alfa bravo
+      v2 : James  Two One Zero cleared for the ILS two four report established gearings seven alpha bravo
+      v3 : Chain  two one zero cleared for the I S S S Two Four Report Estated during seven alpha brao
+
+[050] = v2=14%  v3=14%
+      REF: speed bird eight five five praha radar identified climb flight level one six zero
+      v2 : Speedbird Eight Five Five Praha Radar identified climb flight level one six zero
+      v3 : Speed Eight Five Five Pra Radar identified climb flight level one six zero
+
+================================================================================
+Model                     WER    avg lat    avg RTF
+v2 (current)          15.35%      0.40s      0.094
+v3 (jlvdoorn)         36.93%      0.54s      0.125

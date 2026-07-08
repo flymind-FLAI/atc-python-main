@@ -1,0 +1,414 @@
+
+======================================================================
+CZEN (Prague)  (data/ATCO2-LIDdataset-v1_beta/LID_EVAL_CZEN/EN)
+======================================================================
+[0001] dur=11.8s SNR=19dB lat=0.82s
+        Oscar Kilo Foxtrot Charlie Alfa you are leaving TMA Praha switch to Praha info one two six decimal one das li shino  one two six decimal  one  das li shino  díkne
+[0002] dur=16.0s SNR=18dB lat=0.98s
+        roger  dobrý večer   Skytravel Two Eight Zero Zero  to papa ramo five three zero descending one seven zero with mike one zero one six  dobrý večer  Skytravel Two Eight Zero Zero Praha Radar identified descend flight level one three zero three zero Two Eight Zero Zero
+[0003] dur=17.0s SNR=14dB lat=0.93s
+        approach  Oscar Kilo  Roma Lima Victor descending one seven zero to air asso information november QNH one zero one six  Oscar Kilo  Roma Lima Victor  Praha Radar identified descend flight level seven zero flight level seven zero Oscar Lima Victor
+[0004] dur=15.2s SNR=17dB lat=0.81s
+        CSA Nine Two Three descend four thousand feet QNH one zero one four cleared for ILS approach runway two four descending four thousand feet QNH one zero one four cleared ILS approach runway two four CSA Nine Two Three
+[0005] dur=13.8s SNR=20dB lat=0.91s
+        Arzi Silesia Seven Five One  dobré ráno  airborne two four passing two thousand five hundred  dobré ráno  Silesia Six Five One Praha Radar identified climb flight level one six zero  one six zero Seven Five One
+[0006] dur=4.2s SNR=22dB lat=0.41s
+        Snezia Six Five One turn right proceed direct to tunnel
+[0007] dur=9.6s SNR=13dB lat=0.62s
+        Ryanair Four Four Victor Zulu contact Praha radar one two zero decimal two seven five  one two zero two ten five  Ryanair Four Four Victor Zulu
+[0008] dur=6.0s SNR=12dB lat=0.47s
+        Lufthansa Three November Lima turn right heading one six zero six zero Lufthansa Three November Lima
+[0009] dur=7.4s SNR=16dB lat=0.45s
+        Oscar Kilo Papa Mike Bravo descend flight level one hundred level one hundred Oscar Kilo Papa Mike Bravo
+[0010] dur=6.8s SNR=17dB lat=0.47s
+        Oscar Kilo Papa Mike Bravo descend flight level seven zero descend flight level seven zero Oscar Kilo Papa Mike Bravo
+[0011] dur=6.5s SNR=15dB lat=0.52s
+        Oscar Mike Bravo distance from touch down two five miles problem Oscar Kapa Mike Bravo  díky
+[0012] dur=10.6s SNR=15dB lat=0.68s
+        Ryanair One Juliett Uniform turn left heading two seven zero cleared ILS approach runway two four report established seven zero degrees cleared ILS two four good call Ryanair One Juliett Uniform
+[0013] dur=7.6s SNR=18dB lat=0.45s
+        Time Air Seven Nine Zero Juliett report present level passing five eight now climbing one six zero roger
+[0014] dur=12.5s SNR=14dB lat=0.85s
+        Praha Radar  dobrý den  Eclair Seven Zero One airborne  tutel   dobré ránklo Eclair Seven Zero One Praha Radar identified climb flight level one six zero climbing flight level one six zero Eclair Seven Zero One
+[0015] dur=9.7s SNR=11dB lat=0.65s
+        Hotel Swiss One Two One Seven contact Ruzyne Tower one three four decimal five six zero  one three four five six zero bye bye Hotel Swiss One Two One Seven
+[0016] dur=21.5s SNR=18dB lat=1.06s
+        aha approach hello Qatari Zero Zero Four heavy descend one seven zero heading to papa romeo five three two Qatari Eight Zero Zero Four heavy Brahar radar identified descend flight level one three zero and confirm in information mike abord descend maintain flight level one three zero Qatari Zero Zero Four correct now speed restrictions Qatari Zero Zero Four
+[0017] dur=14.1s SNR=17dB lat=0.40s
+        Oscar Kilo Sierra Oscar Lima Praha Radar identified report present altitude
+[0018] dur=29.4s SNR=18dB lat=1.10s
+        Oscar Kilo Sierra Oscar Lima roger IFR flight starts now time three eight cleared to destination via flight plan route and do you request five thousand feet as a cruising altitude five thousand  Oscar Kilo Sierra Oscar Lima roger maintain five thousand feet IFR flight starts now and turn right heading two seven zero
+[0019] dur=11.1s SNR=16dB lat=0.52s
+        Sierra Sierra Nine One Eight turn left present own navigation direct to netter left direct netter Sierra Sierra Nine One Eight good night
+[0020] dur=6.4s SNR=14dB lat=0.43s
+        Belavia Eight Six One level one zero zero Belavia Eight Six One roger stand by shortly
+[0021] dur=18.1s SNR=17dB lat=1.18s
+        Belavery Eight Six One now descend to four thousand feet QNH one zero one two and via papa rumor five three two cleared ILS approach runway two four thousand feet  delta  break QNH one zero one two proceed papa rumor five three two cleared ILS runway two four Belavery Eight Six One
+[0022] dur=10.2s SNR=15dB lat=0.68s
+        Emirates One Three Niner descend four thousand feet cleared ILS approach runway two four four thousand feet cleared ILS approach runway two four Emirates One Three Niner
+[0023] dur=14.4s SNR=18dB lat=0.51s
+        Oscar Kilo Alpha Papa November report type of the aircraft tekna Oscar Kilo Alpha Papa November roger
+[0024] dur=11.6s SNR=16dB lat=0.80s
+        departure aski   CSA Six Kilo Golf we are passing one thousand eight hundred ahoj CSA Six Kilo Golf Praha radar identified climb flight level one six zero climb flight level one six zero CSA Six Kilo Golf
+[0025] dur=15.4s SNR=15dB lat=0.91s
+        Brazil Belavia Eight Six Two crossing one thousand nine hundred up to five thousand feet  Artur  Hotel  hello Belavia Eight Six Two Praha Radar identified climb flight level one six zero climb level one six zero Belavia Eight Six Two
+[0026] dur=27.6s SNR=16dB lat=1.34s
+        Oscar Kilo Sierra Oscar Lima Praha Radar go ahead for Sierra Oscar Lima so resume own navigation to papa romeo nine six two and proceed as VFR for travinica rmp approach runway one two own navigation papa romeo nine six two and can we climb to four thousand now affirm climb four thousand see altitude QNH one zero one one one zero one one to papa romeo nine six two
+[0027] dur=11.0s SNR=19dB lat=0.53s
+        Oscar Oscar Lima  after all approach proceed left turn to Litnami north of the Praha Kestrel
+[0028] dur=16.1s SNR=13dB lat=0.77s
+        low approach one thousand seven hundred feet or above correct easy to run by closing that is understood and could we for training purposes we already be followed the original procedure normal we would appreciate direct to letnia nebata you know
+[0029] dur=8.1s SNR=20dB lat=0.58s
+        Bero approach  after all approach to echo two thousand five hundred feet per two thousand five hundred feet or below correct
+[0030] dur=11.4s SNR=16dB lat=0.63s
+        Oscar Kilo Kilo Echo Alfa Praha Radar identified climb flight level one hundred IFR flight starts  now time zero five cleared to destination via flight plan route
+[0031] dur=4.0s SNR=25dB lat=0.38s
+        Oscar Kilo Kilo Echo Alfa do you request shortcut
+[0032] dur=10.5s SNR=13dB lat=0.65s
+        cleared for November Bravo Charlie and Whiskey after two thousand five hundred feet QNH one zero one one four three three one six Oscar Kilo Sierra Tango Bravo
+[0033] dur=6.0s SNR=20dB lat=0.43s
+        Ryanair Seven Three Alpha Hotel turn left heading three six zero Ryanair Seven Three Alpha Hotel
+[0034] dur=11.8s SNR=15dB lat=0.67s
+        Ryanair Seven Three Alpha Hotel turn left heading two seven zero cleared ILS approach runway two four report established hello cleared ILS approach runway two four call you established Ryanair Seven Three Alpha Hotel
+[0035] dur=7.1s SNR=17dB lat=0.50s
+        Oscar Kilo Kilo Uniform November proceed direct Baltu proceed direct Baltu Oscar Kilo Kilo Uniform November
+[0036] dur=7.9s SNR=14dB lat=0.57s
+        Air Portugal One Two Four Four descend to five thousand feet QNH one zero one zero descend one zero one zero Air Portugal One Two Four Four
+[0037] dur=12.4s SNR=13dB lat=0.78s
+        established airways two four Airport Go One Two Four Four Air Portugal One Two Four Four contact Ruzyne Tower one three four decimal five six zero tell you later three four five six zero bye bye Airport Go One Two Four Four
+[0038] dur=14.3s SNR=19dB lat=0.97s
+        Praha Radar Echo good day Sunturk Three Zero Two passing one thousand seven hundred four five thousand SRT Vosijet Three Alpha Sunturk Three Zero Two hello Praha Radar identified climb flight level seven zero climb flight level seven zero Sunturk Three Zero Two
+[0039] dur=12.2s SNR=16dB lat=0.66s
+        Praha Info good afternoon Oscar Kilo Kilo Echo Alfa flight level one zero zero Oscar Kilo Kilo Echo Alfa hello Praha Radar identified report your intentions after blasim
+[0040] dur=14.4s SNR=17dB lat=0.81s
+        Oscar Kilo Kilo Uniform November go ahead Oscar Kilo Kilo Uniform November contact ageri radar one one eight decimal six five zero good bye eight six five zero Kilo Kilo Kilo Thank you very much Oscar Kilo Kilo Uniform November
+[0041] dur=7.6s SNR=18dB lat=0.52s
+        Oscar Kilo Kilo Echo Alfa contact  Verohorok for discretion radar one one eight decimal six five zero good bye
+[0042] dur=24.1s SNR=12dB lat=1.12s
+        Praha  dobrý den  Traha Radar identified descend flight level one three zero information mike QNH one zero zero nine mike one zero zero nine descend flight level one three zero  Traha Radar  three zero one Eurowings Seven Alpha Bravo turn right heading one eight zero heading one eight zero Eurowings Seven Alpha Bravo
+[0043] dur=12.2s SNR=17dB lat=0.79s
+        Europa Wings Seven Alpha Bravo turn right heading two one zero cleared ILS approach runway two four report established twin two one zero cleared for the ILS two four report established Europa Wings Seven Alpha Bravo
+[0044] dur=7.4s SNR=12dB lat=0.45s
+        Find Bulgaria Three Zero One next descent in about seven miles copied Three Zero One
+[0045] dur=11.1s SNR=21dB lat=0.85s
+        Ryanair Two Yankee Kilo wait can you confirm the last clear level affirm distance flight level one hundred touching direct papa romeo five three one  papa romeo five three one four Ryanair Two Yankee Kilo thanks a lot
+[0046] dur=11.4s SNR=16dB lat=0.58s
+        Airfrans One Seven Delta Tango runway change expect runway zero six continue present heading maintain present heading for runway zero six Airfrans One Seven Delta Tango
+[0047] dur=7.4s SNR=16dB lat=0.51s
+        Air France One Seven Delta Tango turn left heading three four zero three four zero Air France One Seven Delta Tango
+[0048] dur=7.4s SNR=18dB lat=0.60s
+        Twin Tavia Zero Five One tot seat direct papa romeo seven four two romeo seven four two totavia zero five one
+[0049] dur=15.5s SNR=14dB lat=0.73s
+        Air Portugal One Two Four One report present level rate  looking final level three  eight zero Air Portugal One Three Four One roger and present level passing we are passing flight level nine eight roger thank you
+[0050] dur=17.5s SNR=14dB lat=1.10s
+        Praha Lotus Avi� Zero Five Three flight level two one zero descending one seven zerotransavia zero five three Praha Radar identified descend to flight level one three zero information oscar QNH one zero zero nine QNH one zero zero nine descend level one three zero to Praha Lotus Avi� Zero Five Three
+[0051] dur=20.7s SNR=15dB lat=1.11s
+        Timeair Seven Niner Zero Juliett turn right heading zero three zero descend four thousand feet QNH one zero zero nine cleared ILS approach runway zero six report established turning zero three zero descending four thousand feet QNH one zero zero nine to report established Timeair Seven Niner Zero Juliett cleared ILS approach runway zero six
+[0052] dur=4.5s SNR=15dB lat=0.33s
+        Transavia Zero Five Three descend flight level seven zero
+[0053] dur=8.9s SNR=14dB lat=0.52s
+        Oscar Uniform November resume own navigation direct to sullof resume own navigation direct to sullof Oscar Uniform November
+[0054] dur=6.3s SNR=15dB lat=0.43s
+        Air Calair Three Zero One descend flight level one hundred one hundred Air Calair Three Zero One
+[0055] dur=8.3s SNR=19dB lat=0.58s
+        CSA One Delta Zulu proceed direct to papa romeo seven four two  Papa romeo seven four two CSA One Delta Zulu
+[0056] dur=12.4s SNR=18dB lat=0.80s
+        Oscar Kilo Kilo Uniform November to see to let me and traga  let me north is active to see to let me Sierra G-A let me north is active Oscar Kilo Kilo Uniform November
+[0057] dur=6.3s SNR=15dB lat=0.44s
+        CSA One Delta Zulu descend flight level eight zero level eight zero CSA One Delta Zulu
+[0058] dur=8.0s SNR=15dB lat=0.61s
+        CSA Niner One Nine reduce speed two two zero knots or less reducing speed two two zero or less CSA Niner One Nine
+[0059] dur=9.6s SNR=16dB lat=0.63s
+        CSA Nine One Nine descend four thousand feet and right heading three zero zero four thousand feet altitude heading three zero zero CSA Nine One Nine
+[0060] dur=6.3s SNR=18dB lat=0.48s
+        Air Alinks One Tango Kilo resume own navigation direct to rapid rapid One Tango Kilo thank you
+[0061] dur=9.3s SNR=16dB lat=0.62s
+        CSA Seven Kilo Golf fly heading one eight zero vectoring for ILS approach runway zero six heading one eight zero CSA Seven Kilo Golf  díké
+[0062] dur=12.7s SNR=17dB lat=0.74s
+        CSA Seven Kilo Golf turn left heading one zero zero cleared ILS approach runway zero six report establishedleft heading one zero zero four ILS zero six report established right to CSA Seven Kilo Golf
+[0063] dur=9.7s SNR=17dB lat=0.60s
+        Fraction Zero Four Four Golf request the RNP approach for runway zero six please roger expect RNP approach runway zero six and do you request self positioning or vectors
+[0064] dur=5.8s SNR=17dB lat=0.45s
+        Caterie Two Three One Zero report if you are ready for short approach seven miles line up
+[0065] dur=14.8s SNR=16dB lat=0.87s
+        Oscar Mike Papa ready speed one eighty or less and descend four thousand feet QNH one zero zero eight  we have our left hand four thousand feet one zero zero eight confirm i do confirm one zero zero eight three eight Oscar Mike Papa
+[0066] dur=15.4s SNR=16dB lat=0.76s
+        Oscar Mike Papa turn right heading zero two zero cleared ILS approach runway zero six speed maximum one six zero knots right heading zero two zero cleared ILS approach zero six and maximum one six zero speed confirm I do confirm
+[0067] dur=12.2s SNR=14dB lat=0.79s
+        Lufthansa Five Charlie Victor contact cruise air inter one three four decimal five six zero shernaben tschuss Lufthansa Five Charlie Victor one three four five six ah we are to you bye ahoj
+[0068] dur=15.6s SNR=16dB lat=1.05s
+        Radar  dobrý večer  CSA Five Zero Eight  four thousand one hundred feet when next three mike  dobrý večer CSA Five Zero Eight Praha Radar identified climb flight level one four zero direct decos  climbing flight level one four zero direct decos CSA Five Zero Eight
+[0069] dur=6.4s SNR=15dB lat=0.43s
+        Ryanair Two Nine Five Lima descend flight level one hundred one hundred Ryanair Two Nine Five Lima
+[0070] dur=12.6s SNR=15dB lat=0.83s
+        Eurotrans Nine Five Delta descend four thousand feet altitude QNH one zero zero eight cleared for ILS two four descending four thousand feet one zero zero eight cleared for ILS two four Eurotrans Nine Five Delta
+[0071] dur=8.6s SNR=17dB lat=0.66s
+        Ryanair Two Nine Five Lima descend four thousand feet QNH one zero zero eight four thousand feet QNH one zero zero eight Ryanair Two Nine Five Lima
+[0072] dur=3.8s SNR=14dB lat=0.37s
+        Ryanair Two Nine Five Lima ready for short approach six miles final
+[0073] dur=16.0s SNR=12dB lat=0.89s
+        good evening Lufthansa Eight Hotel Romeo passing two thousand five hundred climbing five thousand Lufthansa Eight Hotel Romeo  Praha Radar good evening identified climb to flight level one six zero Lufthansa Eight Hotel Romeo climb flight level one six zero
+[0074] dur=6.8s SNR=16dB lat=0.46s
+        Ryanair Two Zero One Four proceed direct to varik direct varik Ryanair Two Zero One Four
+[0075] dur=10.1s SNR=20dB lat=0.57s
+        Francelais Four Zero Three Eight turn right heading one five zero turn right heading one five zero Francel Four Zero Three Eight
+[0076] dur=11.4s SNR=17dB lat=0.75s
+        Bohemia Seven One Three contact Praha radar one two zero decimal two seven five hezký večer  one two zero two seven five Bohemia Seven One Three radar hezký večer
+[0077] dur=11.4s SNR=16dB lat=0.69s
+        Time Air Seven Four Five Yankee descend to four thousand feet QNH one zero zero seven four thousand feet QNH one zero zero seven Time Air Seven Four Five Yankee
+[0078] dur=10.8s SNR=10dB lat=0.69s
+        Praha Radar Top Jet Five Zero One  dobrý večer  descending flight level one seven zero ima papa romeo five three two with citation with romeo one zero zero seven
+[0079] dur=11.4s SNR=17dB lat=0.73s
+        Topjet Five Zero One descend to four thousand feet QNH one zero zero seven descend to four thousand feet QNH one zero zero seven Topjet Five Zero One
+[0080] dur=20.0s SNR=14dB lat=1.01s
+        Sydney Air Alpine Six One Victor Yankee on the tower four alpha park three hundred five thousand Alpine Six One Victor Yankee Praha Radar good evening identified climb to flight level one six zero and proceed direct to Barik climbing one six zero direct Farik Alpine Six One Victor Yankee
+[0081] dur=17.7s SNR=19dB lat=1.02s
+        Praha Radar  dobrý večer  CSA Five Zero Nine passing one seven six descend one three zero with kilo one zero zero eight papa rava five three two U C Five Zero Nine  Praha Radar  dobrý večer  identified descend to flight level one hundred flight one hundred CSA Five Zero Nine
+[0082] dur=11.0s SNR=18dB lat=0.66s
+        CSA Five Zero Nine descend four thousand feet QNH one zero zero eight descend four thousand feet QNH one zero zero eight CSA Five Zero Nine
+[0083] dur=14.7s SNR=19dB lat=0.79s
+        Trans Europe Four Two One established localizer two four Trans Europe Four Two One contact Ruzyne Tower one three four decimal five six zero  dobrý noc  tower one three four five three zero now please four two one
+[0084] dur=6.8s SNR=18dB lat=0.47s
+        KLM Seven Three Whiskey contact Ruzyne Tower one three four decimal five six zero good night
+[0085] dur=10.9s SNR=21dB lat=0.68s
+        Skytravel Two Eight Two Seven and there is class echo airspace below flight level one hundred so x  if you  wish to avoid class echo airspace next descent in two zero miles
+[0086] dur=6.4s SNR=20dB lat=0.40s
+        Ryanair Four Zero descend to flight level seven zero seven zero Ryanair Four Zero
+[0087] dur=9.4s SNR=17dB lat=0.50s
+        Ryanair Four Zulu descend to altitude four thousand feet QNH one zero zero eight Ryanair Four Zulu
+[0088] dur=9.6s SNR=17dB lat=0.65s
+        Ryanair Four Zulu via papa romeo five three one cleared ILS approach runway two four five three one we are cleared for ILS two four Ryanair Four Zulu
+[0089] dur=6.8s SNR=19dB lat=0.44s
+        Ryanair Seven Seven Nine Eight descend flight level one hundred level one hundred Ryanair Seven Seven Nine Eight
+[0090] dur=7.7s SNR=18dB lat=0.49s
+        Ryanair Seven Seven Nine Eight and expect lower level in six miles copy Ryanair Seven Seven Nine Eight
+[0091] dur=16.9s SNR=20dB lat=1.01s
+        Eurobra  dobré ráno  Skytravel Six Alpha Delta descend flight level one seven zero inbound papa romeo five three zero and kilo on board Skytravel Six Alpha Delta  dobré ráno  Praha Liga Ryanair Five descend to flight level one hundred flight level one hundred Skytravel Six Alpha Delta
+[0092] dur=10.1s SNR=15dB lat=0.67s
+        Europeair Two Nine Four turn right heading two one zero cleared ILS approach runway two four turn two one zero cleared ILS two four EPS two nine four
+[0093] dur=12.5s SNR=19dB lat=0.68s
+        EPS Two Nine Four established two four EPS Two Nine Four contact tower one three four decimal five six zero bye bye one three four five six zero EPS Two Nine Four
+[0094] dur=13.2s SNR=13dB lat=0.86s
+        Praha EPS Two Nine Four passing two thousand climbing five thousand on departure three alpha morning EPS Two Nine Four Praha Radar identified climb flight level one six zero level one six zero EPS Two Nine Four
+[0095] dur=7.1s SNR=11dB lat=0.43s
+        UPS Two Nine Four proceed direct pepic direct to pepic UPS Two Nine Four
+[0096] dur=12.9s SNR=21dB lat=0.75s
+        Bairmer Seven Eight Four Yankee contact Praha radar one two zero decimal two seven five  hezký den  one two zero two seven five Bairmer Seven Eight Four Yankee hezký den
+[0097] dur=5.9s SNR=16dB lat=0.59s
+        Hotel Kilo Papa Mike Bravo proceed direct to tisam direct to tisam  Hotel Kilo Papa Mike Bravo
+[0098] dur=16.0s SNR=18dB lat=1.02s
+        Praha Radia Ryanair Four Niner Four Five  dobré ráno  passing three thousand five thousand open three alpha departure Ryanair Four Niner Four Five Praha Radia  dobrý den  identified climb flight level one six zero climb flight level one six zero Ryanair Four Nine Four Four Five
+[0099] dur=17.0s SNR=15dB lat=1.02s
+        Praha Radar  dobré ráno  Serbia Three Two descending one five zero course to papa romeo five three two Serbia Two Eight X-ray good morning  Praha Radar identified descend flight level one three zero and information is romeo  proceed descending one three zero Serbia Three Two X-ray
+[0100] dur=19.1s SNR=16dB lat=0.88s
+        Air Serbia Two Eight X-ray descend flight level one hundred and maintain present speed or greater present speed or greater on present heading Serbia Two Eight X-ray speed is two three five for information heading three two one Serbia Two Eight X-ray enter descent flight level one hundred
+
+======================================================================
+EN-AU (Sydney)  (data/ATCO2-LIDdataset-v1_beta/LID_EVAL_EN-AU/EN)
+======================================================================
+[0001] dur=8.6s SNR=17dB lat=0.63s
+        Sydney tower Jetstar Six Air Four Jetstar Six Air Four Sydney tower wind two seven zero degrees four knots runway two four left cleared to land
+[0002] dur=12.4s SNR=12dB lat=0.75s
+        Sydney tower good day Qjet Fifteen Zero Six Qjet Fifteen Zero Six good day wind one zero degrees four knots runway one six right cleared to land one six right cleared to land Qjet Fifteen Zero Six
+[0003] dur=4.9s SNR=14dB lat=0.39s
+        tower good day one Rex One Zero Two Rex One Zero Two good day
+[0004] dur=3.5s SNR=13dB lat=0.47s
+        runway one six right cleared to land pass  Seven    Seven
+[0005] dur=6.1s SNR=11dB lat=0.49s
+        Rex Sixty One Seventy Eight contact departure good day call departure Rex Sixty One Seventy Eight cheers
+[0006] dur=4.7s SNR=25dB lat=0.42s
+        Sydney tower hello Qatar Six Tango Papa I'll pass you straight
+[0007] dur=4.6s SNR=43dB lat=0.49s
+        turning air cross nine twenty three heavy contract nine twenty three heavy Sydney tower good day
+[0008] dur=3.5s SNR=15dB lat=0.37s
+        runway one six right cleared to land Rex Five Fifty Two
+[0009] dur=5.6s SNR=14dB lat=0.41s
+        Sydney tower good evening Qantas Six Forty Six heavy one six right
+[0010] dur=4.5s SNR=20dB lat=0.44s
+        Sydney tower good evening Singapore Seventy Two Ninety Eight is one six right
+[0011] dur=5.9s SNR=14dB lat=0.47s
+        tower American Seven Three Heavy ten miles three voilà hello American Seven Three Heavy Sydney tower good morning
+[0012] dur=7.4s SNR=22dB lat=0.54s
+        tower good morning Malaysian One Twenty Three established localizer runway three four left Malaysian One Twenty Three heavy Sydney tower good morning
+[0013] dur=6.1s SNR=13dB lat=0.43s
+        Sydney tower good morning Singapore Two Thirty One heavy leisure runway three four left
+[0014] dur=4.7s SNR=13dB lat=0.42s
+        Tower good day Jetstar seven sixty three Jetstar seven sixty three Sydney Tower
+[0015] dur=4.9s SNR=12dB lat=0.52s
+        Sydney tower good day Velocity Fifteen Thirty One Velocity Fifteen Thirty One Sydney tower good morning
+[0016] dur=4.7s SNR=12dB lat=0.43s
+        Sydney tower Rex Five Thirty Three Rex Five Thirty Three Sydney tower good one
+[0017] dur=5.2s SNR=12dB lat=0.48s
+        tower good day Rex Sixty Four Sixty Four Rex Sixty Four Sixty Four Sydney tower good afternoon
+[0018] dur=6.4s SNR=11dB lat=0.45s
+        Tower good day Qlink One Sixty Seven Delta Qlink One Sixty Seven Delta Sydney Tower good day
+[0019] dur=4.2s SNR=17dB lat=0.70s
+        cleared wind runway three four left vacate via  alfa  two  cata   tower   tango  tuta
+[0020] dur=5.0s SNR=12dB lat=0.37s
+        Singapore Seven Two Seven Three contact departure departure Seven Two Seven Three
+[0021] dur=5.6s SNR=17dB lat=0.48s
+        Sydney tower good morning Jetstar Seven Forty Six established Jetstar Seven Forty Six Sydney tower
+[0022] dur=4.5s SNR=11dB lat=0.43s
+        tower good day Qantas Four Sixty Two Qantas Four Sixty Two Sydney tower
+[0023] dur=6.7s SNR=11dB lat=0.55s
+        China Eastern Seven One Two line up and wait runway three four left tarpenwood three four left China Eastern One Two
+[0024] dur=7.2s SNR=14dB lat=0.52s
+        Sydney tower Rex Sixty One Seventy Five Rex Sixty One Seventy Five Sydney tower good afternoon
+[0025] dur=3.0s SNR=11dB lat=0.37s
+        one six right cleared to land Blossy Fifteen Thirty Five
+[0026] dur=7.7s SNR=23dB lat=0.53s
+        tower Bahena Two Zero One Seven good evening established ILS one six right Bahena Two Zero One Seven heavy Sydney tower good evening
+[0027] dur=4.6s SNR=19dB lat=0.36s
+        Tower Dynasty Zero Five Five heavy airway runway one six right approach
+[0028] dur=5.0s SNR=12dB lat=0.43s
+        target one in three left yet six zero six heavy on localizer runway three four left
+[0029] dur=6.8s SNR=24dB lat=0.57s
+        Train Heli X-ray  Six Zero Six the Sydney tower good morning continue approach can you approach Heli X-ray Six Zero Six
+[0030] dur=10.6s SNR=13dB lat=0.71s
+        continue approach for Connie Eight Three Five answer with mike  I think we'll be able if we can make it it's probably gonna be golf or golf one for Connie Eight Three Five Connie Eight Three Five copy
+[0031] dur=5.2s SNR=17dB lat=0.48s
+        Sydney tower good day Qlink Four Zero Two Qlink Four Zero Two Sydney tower good morning
+[0032] dur=4.9s SNR=12dB lat=0.44s
+        vacate via alpha two twin three four left CG nine three three
+[0033] dur=4.9s SNR=19dB lat=0.48s
+        Sydney tower Velocity Eight Thirty Three Velocity Eight Thirty Three Sydney tower good bye
+[0034] dur=8.1s SNR=12dB lat=0.61s
+        tower good afternoon Emirates Nine Two Four Two cleared ILS three four left seven miles final Emirates Nine Two Fourty Two heavy Sydney tower good afternoon continue approach
+[0035] dur=4.4s SNR=11dB lat=0.47s
+        Sydney tower Qlink Two Zero Four Delta Qlink Two Zero Four Delta Sydney tower
+[0036] dur=5.6s SNR=15dB lat=0.41s
+        roger  continue approach  expect to land vacate golf Dynasty Zero Five One
+[0037] dur=6.1s SNR=13dB lat=0.45s
+        Sydney tower evening Qantas Seventy Seven Zero One now at three international
+[0038] dur=3.0s SNR=11dB lat=0.41s
+        Twinjet Five Zero on a short delay waiting on our release from the back
+[0039] dur=9.4s SNR=17dB lat=0.55s
+        tower good morning Philippine Eight Two One One ILS runway three four left Philippine Eight Two One One heavy Sydney tower good day
+[0040] dur=4.0s SNR=14dB lat=0.42s
+        Elite Bravo Four and three four left cleared to land Jetstar Four Zero One
+[0041] dur=5.2s SNR=12dB lat=0.40s
+        China Southern Three Twenty Six contact departure contact departure China Southern Three Two Six
+[0042] dur=6.8s SNR=11dB lat=0.53s
+        Airways Three Four Left cleared to land and request roll through to bravo eight four is available Jetstar Four Zero Nine
+[0043] dur=5.4s SNR=11dB lat=0.49s
+        Jetstar Four Zero Nine approved route to bravo four approved bravo four thank you Jetstar Four Zero Nine
+[0044] dur=4.2s SNR=31dB lat=0.36s
+        tower Jetstar Seven Six Three Jetstar Seven Six Three Sydney ciao
+[0045] dur=5.0s SNR=15dB lat=0.40s
+        Qantas Six Forty Seven contact departure good day voilà six forty seven good afternoon
+[0046] dur=5.4s SNR=12dB lat=0.42s
+        Rex Sixty Eight Sixty Eight contact departure departure Rex Sixty Eight Sixty Eight
+[0047] dur=4.2s SNR=11dB lat=0.46s
+        good day  Qantas Nine Ninety Four Qantas Nine Ninety Four tower good day
+[0048] dur=3.8s SNR=11dB lat=0.49s
+        Sydney tower Qantas Six Forty Two Qantas Six Forty Two Sydney tower good day
+[0049] dur=2.5s SNR=11dB lat=0.45s
+        runway three  two  left cleared to land runway six forty three
+[0050] dur=5.2s SNR=18dB lat=0.44s
+        Sydney tower Delta Seven Sixty Seven Delta Seven Sixty Seven Sydney tower
+[0051] dur=4.5s SNR=13dB lat=0.49s
+        Sydney tower good day Qantas Five Twenty Niner Qantas Five Twenty Niner Sydney tower
+[0052] dur=4.0s SNR=15dB lat=0.39s
+        tower good day New Zealand Three Three One established ILS three four left
+[0053] dur=5.0s SNR=15dB lat=0.48s
+        Sydney tower good day Qantas One Twenty Two Qantas One Twenty Two Sydney tower good day
+[0054] dur=7.9s SNR=11dB lat=0.59s
+        Tower good evening Qatari Six Tango Papa ILS three four left Qatari Six Tango Papa heavy Sydney tower good day continue approach
+[0055] dur=4.2s SNR=11dB lat=0.39s
+        runway three four left cleared to land Quantas One Forty Six
+[0056] dur=5.1s SNR=16dB lat=0.48s
+        roger cleared to land runway three four left  exit  on the high speed on   right
+[0057] dur=5.4s SNR=13dB lat=0.42s
+        vacate golf runway three four left cleared to land Air China Six One Three
+[0058] dur=6.0s SNR=11dB lat=0.47s
+        Bauhinia Two Zero One Eight contact departure good night contact departure good night Bauhinia Two Zero One Eight
+[0059] dur=5.5s SNR=17dB lat=0.50s
+        Belgian Tower Qantas Six Fifty heavy establish three four left Qantas Six Fifty heavy Sydney tower
+[0060] dur=4.5s SNR=18dB lat=0.44s
+        Sydney tower good evening Jetstar Six Seventy One final runway three four left
+[0061] dur=4.6s SNR=15dB lat=0.46s
+        okay check the r v r s and cleared to land three four left American Seven Three Heavy
+[0062] dur=5.4s SNR=13dB lat=0.40s
+        Jetstar Seven Eighty Four contact departure Jetstar Seven Eighty Four good morning
+[0063] dur=3.4s SNR=13dB lat=0.33s
+        Jetstar Nine Twelve contact departure Jetstar Nine Twelve
+[0064] dur=9.3s SNR=14dB lat=0.62s
+        tower Viet Nam Seven Seven Three good morning Viet Nam Seven Seven Three heavy Sydney tower good morning continue approach threshold wind two seven zero degrees seven knots
+[0065] dur=5.1s SNR=12dB lat=0.48s
+        Sydney tower good morning Qlink Four Twenty Four Delta Qlink Four Twenty Four Delta Sydney tower
+[0066] dur=4.9s SNR=13dB lat=0.39s
+        continue approach three four eleven vacate via alpha two Singapore Two Thirty One
+[0067] dur=3.9s SNR=14dB lat=0.40s
+        tower Bovenia Two Zero One Seven established ILS three four left
+[0068] dur=3.8s SNR=12dB lat=0.47s
+        runway three four left cleared to land vacate bravo three jetstar five twenty
+[0069] dur=4.6s SNR=13dB lat=0.50s
+        Sydney tower Rex Sixty Four Seventy Two Rex Sixty Four Seventy Two Sydney tower
+[0070] dur=4.2s SNR=15dB lat=0.43s
+        hello Sydney good evening Jetstar Four Seventy Five climbing flight level two eight zero
+[0071] dur=5.4s SNR=15dB lat=0.54s
+        Sydney tower evening Qantas Seventy Five Twenty Eight heavy Qantas Seventy Five Twenty Eight heavy Sydney tower
+[0072] dur=4.9s SNR=18dB lat=0.50s
+        tower good day QNH three thirty delta QNH three thirty delta Sydney tower
+[0073] dur=3.5s SNR=12dB lat=0.39s
+        runway three four left cleared to land Qantas Six Forty Six
+[0074] dur=7.6s SNR=22dB lat=0.65s
+        Sydney tower good day Jetstar Five Twenty Two Jetstar Five Twenty Two Sydney tower Qlink Forty Two Delta runway three four left cleared for takeoff
+[0075] dur=5.0s SNR=13dB lat=0.46s
+        Sydney tower good evening Dynasty Zero Five Five seven miles runway zero  runway three four left
+[0076] dur=6.7s SNR=14dB lat=0.50s
+        tower good evening Singapore Two One One heavy established ILS three four left Singapore Two One One heavy Sydney tower
+[0077] dur=9.2s SNR=25dB lat=0.67s
+        Sydney tower good day Qantas Four Ninety Four Qantas Four Ninety Four Sydney tower wind zero four zero degrees three knots runway one six right cleared to land
+[0078] dur=4.2s SNR=14dB lat=0.38s
+        one six right cleared to land and understood Qantas Four Ninety Eight
+[0079] dur=5.0s SNR=30dB lat=0.38s
+        tower United Twenty Twelve is just outside  Gala for one six right
+[0080] dur=4.2s SNR=20dB lat=0.43s
+        Sydney tower good morning American Seventy Three ILS three four left
+[0081] dur=5.6s SNR=11dB lat=0.51s
+        Sydney tower Zara Jet Six Twenty heavy good morning SWE should localize runway three four left and visual
+[0082] dur=2.9s SNR=14dB lat=0.38s
+        runway one six right cleared to land board CITR three
+[0083] dur=7.4s SNR=11dB lat=0.54s
+        Jetstar Seven Six One wind is calm runway one six right cleared to land cleared to land one six right Jetstar Seven Sixty One
+[0084] dur=8.5s SNR=20dB lat=0.59s
+        Qantas Four Twenty Six wind two six zero degrees eight knots runway one six right cleared to land runway one six right cleared to land  Four Twenty Six
+[0085] dur=3.1s SNR=14dB lat=1.22s
+        runway one six right cleared to land Jetstar  five    five     five     five     five     five     five     five     five   five    five
+[0086] dur=2.5s SNR=11dB lat=0.36s
+        one six right cleared to land Qlink Two Zero Six Delta
+[0087] dur=4.0s SNR=13dB lat=0.39s
+        continue approach runway one six right ten eight zero seven nine one
+[0088] dur=3.8s SNR=12dB lat=0.35s
+        two seven five at four knots Qantas Four Forty Six
+[0089] dur=8.8s SNR=27dB lat=0.51s
+        tower good afternoon China Southern Three Zero One established ILS one six right China Southern Three Zero One heavy Sydney tower good afternoon
+[0090] dur=3.8s SNR=13dB lat=0.37s
+        cleared to land runway one six right China Southern Three Zero One
+[0091] dur=2.8s SNR=17dB lat=0.36s
+        one six right cleared to land Rex Sixty One Thirty Four
+[0092] dur=4.9s SNR=28dB lat=0.41s
+        tower Malaysian Six Two Zero Five heavy  good evening on ILS one six right
+[0093] dur=3.5s SNR=19dB lat=0.37s
+        cleared to land runway one six right descend six two zero five
+[0094] dur=3.3s SNR=14dB lat=0.40s
+        runway one six right cleared to land Qantas Seventy Seven Zero One
+[0095] dur=7.7s SNR=15dB lat=0.39s
+        tower Connie  Eight Thirty Five on the ILS one six three
+[0096] dur=10.4s SNR=13dB lat=0.65s
+        Qn Air One Twenty One wait two four zero degrees  for departure by one six right cleared to land Bologna One Six right cleared to land Qn Air One Two One heavy
+[0097] dur=6.5s SNR=11dB lat=0.53s
+        Tower good day Velocity Four Zero One Velocity Four Zero One tower hello continue approach Velocity Four Zero One
+[0098] dur=2.6s SNR=18dB lat=0.39s
+        cleared to land runway one six five Qjet Fifteen Zero Four
+[0099] dur=12.4s SNR=14dB lat=0.74s
+        tower good afternoon Singapore Two Forty One heavy established one six rightSingapore Two Forty One heavy Sydney tower good day continue approach runway one six right continue approach one six right Singapore Two Forty One
+[0100] dur=2.6s SNR=16dB lat=0.39s
+        runway one six right cleared to land Qantas Five Three One
+
+======================================================================
+SUMMARY
+======================================================================
+CZEN (Prague)        samples= 100  avg_lat=0.69s  avg_SNR=16.4dB  RTF=0.060
+EN-AU (Sydney)       samples= 100  avg_lat=0.48s  avg_SNR=15.3dB  RTF=0.088

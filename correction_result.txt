@@ -1,0 +1,253 @@
+Loading model...
+Loading data...
+50 samples
+
+================================================================================
+[001] =  ASR=13% → COR=13%  lat=0.47s  rtf=0.09
+  REF: oscar kilo foxtrot alfa oscar taxi to holding point runway two seven via alfa charlie
+  ASR: Oscar Kilo Foxtrot Alpha Oscar taxi to holding point runway two seven via alpha charlie
+  COR: Oscar Kilo Foxtrot Alpha Oscar taxi to holding point runway two seven via alpha Charlie
+
+[002] =  ASR=6% → COR=6%  lat=0.76s  rtf=0.06
+  REF: ok quality four zero nine one ruzyne tower information lima qnh one zero one four time check three seven cleared to liege baltu four alfa departure initial climb five thousand feet and squawk one thousand
+  ASR: okay Quality Four Zero Nine One Ruzyne Tower information lima QNH one zero one four time check three seven cleared to Liege Baltu four alpha departure initial climb five thousand feet and squawk one thousand
+
+[003] =  ASR=8% → COR=8%  lat=0.44s  rtf=0.11
+  REF: oscar kilo echo lima alfa confirm proceeding to tango bravo four zero two
+  ASR: Oscar Kilo Echo Lima Alpha confirm proceeding to tango bravo four zero two
+  COR: Oscar Kilo Echo Lima Alpha confirm proceeding to Tango Bravo Four Zero Two
+
+[004] ✗  ASR=0% → COR=8%  lat=0.35s  rtf=0.08
+  REF: csa one delta zulu descend flight level one hundred no speed restrictions
+  ASR: CSA One Delta Zulu descend flight level one hundred no speed restrictions
+  COR: CSA One Delta Zulu descend to flight level one hundred no speed restrictions
+
+[005] ✗  ASR=36% → COR=55%  lat=0.36s  rtf=0.07
+  REF: descending flight level one hundred free speed csa one delta zulu
+  ASR: nice heading follow one hundred  free speed CSA one delta zero
+  COR: nice heading follow one hundred feet east speed CSA one delta zero
+
+[006] =  ASR=33% → COR=33%  lat=0.35s  rtf=0.10
+  REF: oscar kilo triple hotel please confirm one more holding
+  ASR: Oscar Kilo Triple Hotel please confirm what we are holding
+
+[007] ✗  ASR=5% → COR=10%  lat=0.49s  rtf=0.06
+  REF: oscar kilo hotel hotel hotel affirm one holding and then it should be possible to follow ils runway zero six
+  ASR: Oscar Kilo Hotel Hotel Hotel Hotel affirm one holding and then it should be possible to follow ILS runway zero six
+  COR: Oscar Kilo Hotel Hotel Hotel Hotel affirm one holding and then it should be possible to follow ILS runway two six
+
+[008] =  ASR=33% → COR=33%  lat=0.23s  rtf=0.15
+  REF: roger thank you
+  ASR: thank you
+
+[009] ✓  ASR=44% → COR=33%  lat=0.37s  rtf=0.11
+  REF: ruzyne tower hello again euro wings one tango kilo
+  ASR: Air Rosine tower hello again your rings one tango kilo
+  COR: Air ruzyne tower hello again your rings one tango kilo
+
+[010] =  ASR=27% → COR=27%  lat=0.39s  rtf=0.09
+  REF: euro wings one tango kilo ruzyne tower good afternoon go ahead
+  ASR: europink Slank Tango Kilo Ruzyne Tower good afternoon go ahead
+  COR: eurowings Tango Kilo Ruzyne Tower good afternoon go ahead
+
+[011] ✗  ASR=25% → COR=31%  lat=0.46s  rtf=0.10
+  REF: just a question do you think there any chance to get runway two four for departure
+  ASR: just a question do you think there is a chance for us to get runway two four for departure
+  COR: just a question do you think there is a chance for us to get runway two five for departure
+
+[012] ✗  ASR=0% → COR=8%  lat=0.40s  rtf=0.05
+  REF: unfortunately with delay because there are five aircraft on runway zero six landing
+  ASR: unfortunately with delay because there are five aircraft on runway zero six landing
+  COR: with delay because there are five aircraft on runway zero six landing
+
+[013] =  ASR=50% → COR=50%  lat=0.26s  rtf=0.14
+  REF: ok copy thank you
+  ASR: okay copied thank you
+
+[014] ✗  ASR=12% → COR=19%  lat=0.45s  rtf=0.06
+  REF: warsaw radar bel avia eight seven zero good evening flight level three five zero inbound bigu
+  ASR: Warsaw Radar Belavia Eight Seven Zero good evening flight level three five zero inbound bigu
+  COR: Warsaw Radar Belavia Eight Seven Zero good evening flight level three five zero inbound Bogucice
+
+[015] ✗  ASR=17% → COR=33%  lat=0.35s  rtf=0.09
+  REF: ryan air nine two bravo quebec turn right heading zero nine zero
+  ASR: Ryanair Nine Two Bravo Quebec turn right heading zero nine zero
+  COR: Ryanair Nine Two Bravo Quebec turn right heading two one zero
+
+[016] =  ASR=33% → COR=33%  lat=0.45s  rtf=0.15
+  REF: nine zero degrees ryan air nine two bravo quebec
+  ASR: nine zero degrees  friend  nine two bravo  körper
+  COR: nine zero degrees friend one two bravo quebec
+
+[017] ✗  ASR=16% → COR=22%  lat=0.64s  rtf=0.06
+  REF: sky travel two eight two seven and there is closed echo airspace below flight level one hundred so if you wish to avoid class echo airspace next descend in two zero miles
+  ASR: Skytravel Two Eight Two Seven and there is class echo airspace below flight level one hundred so x  if you  wish to avoid class echo airspace next descent in two zero miles
+  COR: Skytravel Two Eight Two Seven and there is class Bravo airspace below flight level one hundred so x if you wish to avoid class Bravo airspace next descent in two zero miles
+
+[018] ✗  ASR=0% → COR=30%  lat=0.40s  rtf=0.13
+  REF: oscar kilo charlie alfa papa squawk seven thousand good bye
+  ASR: Oscar Kilo Charlie Alfa Papa squawk seven thousand good bye
+  COR: Oscar Kilo Charlie Alpha Papa squawk seven thousand goodbye
+
+[019] =  ASR=80% → COR=80%  lat=0.49s  rtf=0.22
+  REF: squawk seven thousand good bye oscar kilo charlie alfa papa
+  ASR: Quickself tower good bye  oski  troyarch  tower
+  COR: tower good bye oski tower
+
+[020] ✗  ASR=0% → COR=9%  lat=0.38s  rtf=0.11
+  REF: oscar kilo echo lima alfa climb to flight level seven zero
+  ASR: Oscar Kilo Echo Lima Alfa climb to flight level seven zero
+  COR: Oscar Kilo Echo Lima Alpha climb to flight level seven zero
+
+[021] ✗  ASR=0% → COR=9%  lat=0.42s  rtf=0.05
+  REF: oscar kilo bravo alfa lima request shortcut to vlasim if possible
+  ASR: Oscar Kilo Bravo Alfa Lima request shortcut to  Vlasim if possible
+  COR: Oscar Kilo Bravo Alpha Lima request shortcut to Vlasim if possible
+
+[022] =  ASR=0% → COR=0%  lat=0.45s  rtf=0.08
+  REF: oscar uniform romeo turn left heading two seven zero cleared for ils approach runway two four
+  ASR: Oscar Uniform Romeo turn left heading two seven zero cleared for ILS approach runway two four
+
+[023] =  ASR=29% → COR=29%  lat=0.41s  rtf=0.08
+  REF: turn left to seven zero cleared for ils runway two four oscar uniform romeo
+  ASR: turn left to seven feet cleared for ILS runway two four Oscar yes and bravo
+  COR: turn left to seven feet cleared for ILS runway two four Oscar yes and Bravo
+
+[024] =  ASR=43% → COR=43%  lat=0.30s  rtf=0.15
+  REF: say again the departure we for us
+  ASR: say again the departure three four one
+
+[025] =  ASR=0% → COR=0%  lat=0.41s  rtf=0.09
+  REF: it is baltu four alfa to climb five thousand feet
+  ASR: it is Baltu four alfa to climb  five thousand feet
+  COR: it is Baltu four alfa to climb five thousand feet
+
+[026] ✓  ASR=6% → COR=0%  lat=0.47s  rtf=0.11
+  REF: lufthansa nine tango papa contact praha radar one two zero decimal two seven five bye bye
+  ASR: Lufthansa Niner Tango Papa contact Praha Radar one two zero decimal two seven five bye bye
+  COR: Lufthansa Nine Tango Papa contact Praha Radar one two zero decimal two seven five bye bye
+
+[027] ✗  ASR=20% → COR=30%  lat=0.39s  rtf=0.12
+  REF: lufthansa nine tango papa two zero two seven five bye
+  ASR: Lufthansa Nine Takeoff Papa two zero two seven bye bye
+  COR: Lufthansa Nine Takeoff Papa two zero two seven goodbye
+
+[028] ✗  ASR=21% → COR=26%  lat=0.54s  rtf=0.09
+  REF: time air six nine zero juliett contact ruzyne tower one three four decimal five six zero hezky vecer ahoj
+  ASR: Air Mare Six Nine Zero Juliett contact Ruzyne Tower one three four decimal five six zero  hezký večer ahoj
+  COR: Air Mare Six Nine Zero Juliet contact Ruzyne Tower one three four decimal five six zero dobrý večer ahoj
+
+[029] ✗  ASR=21% → COR=29%  lat=0.40s  rtf=0.09
+  REF: one three four five six zero time air six nine zero juliett bye diky
+  ASR: One Three Four Five Six Zero time six nine zero juliett bye thank you
+  COR: One Three Four Five Six Zero time six nine zero Juliet Bravo
+
+[030] ✗  ASR=10% → COR=20%  lat=0.55s  rtf=0.07
+  REF: oscar kilo bravo alfa lima after bukap descend to three thousand feet cleared rnp approach runway two seven report established
+  ASR: Oscar Kilo Bravo Alfa Lima after book up descend to three thousand feet cleared RNP approach runway two seven report established
+  COR: Oscar Kilo Bravo Alpha Lima after takeoff up descend to three thousand feet cleared RNAV approach runway two seven report established
+
+[031] ✗  ASR=0% → COR=12%  lat=0.47s  rtf=0.08
+  REF: sierra papa foxtrot lima foxtrot contact wien radar one two five decimal one seven five good bye
+  ASR: Sierra Papa Foxtrot Lima Foxtrot contact Wien Radar one two five decimal one seven five good bye
+  COR: Sierra Papa Foxtrot Lima Foxtrot contact Wien Radar one two five decimal one seven five goodbye
+
+[032] =  ASR=0% → COR=0%  lat=0.36s  rtf=0.12
+  REF: oscar kilo tango oscar papa proceed direct lanux
+  ASR: Oscar Kilo Tango Oscar Papa proceed direct Lanux
+
+[033] ✗  ASR=14% → COR=57%  lat=0.33s  rtf=0.11
+  REF: direct lanux oscar kilo tango oscar papa
+  ASR: ah direct Lanux Oscar Kilo Tango Oscar Papa
+  COR: Lanux -> London
+
+London Oscar Kilo Tango Oscar Papa
+
+[034] ✗  ASR=17% → COR=21%  lat=0.63s  rtf=0.06
+  REF: praha radar oscar kilo uniform tango charlie dobry den passing three thousand nine hundred climbing flight level seven zero inbound vlasim ready for ifr
+  ASR: Radar Oscar Kilo Radio From Tango Charlie  dobrý den   passing three thousand nine hundred climbing flight level seven zero inbound Vlasim ready for IFR
+  COR: Radar Oscar Kilo Radio From Tango Charlie good morning passing three thousand nine hundred climbing flight level seven zero inbound Vlasim ready for IFR
+
+[035] =  ASR=10% → COR=10%  lat=0.43s  rtf=0.09
+  REF: oscar kilo uniform tango charlie dobry den praha radar identified
+  ASR: Oscar Kilo Uniform Tango Charlie  dobrý den  Praha Radar identified
+  COR: Oscar Kilo Uniform Tango Charlie dobrý den Praha Radar identified
+
+[036] =  ASR=14% → COR=14%  lat=0.41s  rtf=0.07
+  REF: climb flight level seven zero and cleared to destination benesov via flight plan route
+  ASR: climb flight level seven zero and cleared to ah destination benesov via flight planned route
+  COR: climb flight level seven zero and cleared to a destination benesov via flight planned route
+
+[037] ✗  ASR=11% → COR=22%  lat=0.34s  rtf=0.08
+  REF: ifr flight starts now time one three one four
+  ASR: affirm flight starts now time one three one four
+  COR: affirm flight starts now time one three zero four
+
+[038] ✗  ASR=40% → COR=80%  lat=0.27s  rtf=0.15
+  REF: klm one three five zero
+  ASR: Kairman Three Five Zero
+  COR: klm 350
+
+[039] ✗  ASR=0% → COR=33%  lat=0.24s  rtf=0.20
+  REF: sorry go ahead
+  ASR: sorry go ahead
+  COR: go ahead
+
+[040] =  ASR=0% → COR=0%  lat=0.36s  rtf=0.09
+  REF: yeah contact radar one two zero two seven five ahoj
+  ASR: yeah contact radar one two zero two seven five ahoj
+
+[041] =  ASR=42% → COR=42%  lat=0.38s  rtf=0.09
+  REF: one two zero two seven five ahoj klm one three five zero
+  ASR: Hotel Zero Two Seven Five runway cleared ILS one three five zero
+
+[042] ✗  ASR=6% → COR=19%  lat=0.46s  rtf=0.08
+  REF: lufthansa nine tango papa contact praha radar one two zero decimal two seven five good bye
+  ASR: Lufthansa Nair Tango Papa contact Praha radar one two zero decimal two seven five good bye
+  COR: Lufthansa Nair Tango Papa contact Praha radar one two zero decimal two seven five goodbye
+
+[043] ✗  ASR=0% → COR=9%  lat=0.40s  rtf=0.10
+  REF: one two zero two seventy five bye bye nine tango papa
+  ASR: One Two Zero Two Seventy Five bye bye  Nine Tango Papa
+  COR: One Two Zero Two Seven Five bye bye Nine Tango Papa
+
+[044] ✗  ASR=0% → COR=7%  lat=0.49s  rtf=0.11
+  REF: oscar kilo kilo kilo whiskey descend to five thousand feet qnh one zero one six
+  ASR: Oscar Kilo Kilo Kilo Whiskey descend to five thousand feet QNH one zero one six
+  COR: Oscar Kilo Kilo Kilo Whiskey descend to five thousand feet QNH one niner one six
+
+[045] ✗  ASR=0% → COR=12%  lat=0.34s  rtf=0.15
+  REF: oscar kilo mike delta hotel pass your message
+  ASR: Oscar Kilo Mike Delta Hotel pass your message
+  COR: Oscar Kilo Mike Delta Hotel pass your messsage
+
+[046] ✗  ASR=30% → COR=35%  lat=0.51s  rtf=0.09
+  REF: is it ok for you if we maintain four nautical miles left hand track all the way down to benesov
+  ASR: Easy tour kit for you if we maintain  four knots thicker miles left of track all the way down to Benesov
+  COR: easy tour kit for you if we maintain four knots through miles left of track all the way down to Benešov
+
+[047] ✗  ASR=0% → COR=9%  lat=0.39s  rtf=0.07
+  REF: oscar kilo charlie alfa papa if able increase speed approaching traffic
+  ASR: Oscar Kilo Charlie Alfa Papa if able increase speed  approaching traffic
+  COR: Oscar Kilo Charlie Alpha Papa if able increase speed approaching traffic
+
+[048] ✗  ASR=32% → COR=37%  lat=0.47s  rtf=0.08
+  REF: euro wings seven alfa bravo turn right heading two one zero cleared ils approach runway two four report established
+  ASR: Europa Wing Seven Alpha Bravo turn right heading two one zero cleared ILS approach and wait you four report established
+  COR: Europa Wing Seven Alpha Bravo turn right heading two one zero cleared ILS approach and wait you for report established
+
+[049] =  ASR=24% → COR=24%  lat=0.44s  rtf=0.07
+  REF: ding two one zero cleared for the ils two four report established euro wings seven alfa bravo
+  ASR: James  Two One Zero cleared for the ILS two four report established gearings seven alpha bravo
+  COR: James Two One Zero cleared for the ILS two four report established Eurowings Seven Alpha Bravo
+
+[050] ✗  ASR=14% → COR=21%  lat=0.39s  rtf=0.09
+  REF: speed bird eight five five praha radar identified climb flight level one six zero
+  ASR: Speedbird Eight Five Five Praha Radar identified climb flight level one six zero
+  COR: Speedbird Eight Five Five Praha Radar identified climb flight level one seven zero
+
+================================================================================
+  Raw ASR WER   : 16.87%
+  Corrected WER : 23.84%  (Δ -6.97%)
+  Improved      : 2/50
+  Degraded      : 29/50
